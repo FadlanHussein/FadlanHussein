@@ -1,2 +1,7 @@
-### 🏆 GitHub Trophies
-[![](\https://github-profile-trophy.vercel.app/?username=FadlanHussein&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+### Hi there 👋
+
+# 📊 GitHub Stats
+![Fadlan's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=FadlanHussein&show_icons=true&theme=tokyonight)
+
+### 💻 Most Used Languages
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FadlanHussein&layout=compact&theme=tokyonight)
