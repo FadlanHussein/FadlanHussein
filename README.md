@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-# 📊 GitHub Stats
-![Fadlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=FadlanHussein&show_icons=true&theme=tokyonight)
+# 📊 GitHub Profile Summary
+![Fadlan's Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FadlanHussein&theme=tokyonight)
 
 ### 💻 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FadlanHussein&layout=compact&theme=tokyonight)
+![Fadlan's Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FadlanHussein&theme=tokyonight)
